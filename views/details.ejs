@@ -1,0 +1,61 @@
+<%- include("partials/header") %>
+
+    <main class="main_details">
+        <div class="details_container">
+                <h2>Détails de <%= pokemon.nom %> :</h2>
+                <div class="section">
+                    <img src="/img/<%= pokemon.numero %>.png" alt="<%= pokemon.nom %> ">
+                    <div class="article">
+                        <h3>#<%= pokemon.numero %> <%= pokemon.nom %></h3>
+                        <div class="tags">
+                            <% pokemon.type.forEach(element=>{%>
+                                <span class="tags type--<%=element%>"><%= element%></span>
+                            <%})%> 
+                        
+                        </div>
+                        <div class="stat">
+                            <h3>Statistiques</h3>
+                            <div class="stat_carac-global">
+                                <div class="stat_carac">
+                                    <span>PV</span>
+                                    <span class="stat_carac-number"><%=pokemon.pv%></span>
+                                    <div class="stat_carac-bar" data-test="<%=pokemon.pv%>"></div>
+                                </div> 
+                                <div class="stat_carac">
+                                    <span>Attaque</span>
+                                    <span class="stat_carac-number"><%=pokemon.attaque%></span>
+                                    <div class="stat_carac-bar" data-test="<%=pokemon.attaque%>"></div>
+                                </div>
+                                <div class="stat_carac">
+                                    <span>Défense</span>
+                                    <span class="stat_carac-number"><%=pokemon.defense%></span>
+                                    <div class="stat_carac-bar" data-test="<%=pokemon.defense%>"></div>
+                                </div>
+                                <div class="stat_carac">
+                                    <span>Attaque spé</span>
+                                    <span class="stat_carac-number"><%=pokemon.attaque_spe%></span>
+                                    <div class="stat_carac-bar" data-test="<%=pokemon.attaque_spe%>"></div>
+                                </div>
+                                <div class="stat_carac">
+                                    <span>Défense spé</span>
+                                    <span class="stat_carac-number"><%=pokemon.defense_spe%></span>
+                                    <div class="stat_carac-bar" data-test="<%=pokemon.defense_spe%>"></div>
+                                </div>
+                                <div class="stat_carac">
+                                    <span>Vitesse</span>
+                                    <span class="stat_carac-number"><%=pokemon.vitesse%></span>
+                                    <div class="stat_carac-bar" data-test="<%=pokemon.vitesse%>"></div> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="return"><a href="/#<%= pokemon.numero %> ">Revenir à la liste</a></div>
+            
+        </div>
+    
+    </main>
+    </div>
+    <script src="/css/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,434 @@
+body{
+    background-color: rgb(250, 154, 98);
+    font-family: 'Bree Serif', serif;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: rgb(250,154,98);
+    border-radius: 20px;
+    margin-top: 0.7rem;
+    position :sticky;
+    top: 5px;
+    z-index:1;
+}
+
+h1 a{
+    text-decoration: none;
+    color:rgb(250, 122, 83);
+}
+
+h1 {
+    margin: 1.5rem;
+    font-size: 1.8rem;
+} 
+
+nav{
+    margin-right: 1rem;
+}
+
+.nav_link{
+    text-decoration: none;
+    color: white;
+    margin: 0.2rem;
+    font-size: 0.9rem;
+    text-align: center;
+    background-color: rgb(250, 122, 83);
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    border: solid 2px rgb(172, 47, 9);
+    text-decoration: none;
+}
+
+.input input{
+    border: solid 2px  rgb(250, 122, 83);
+    padding: 0.7rem;
+    border-radius: 20px;
+}
+
+.search_bar::placeholder{
+    color:rgb(250, 122, 83);
+    font-family: 'Bree Serif', serif;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    margin: 0.2rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(250, 122, 83);
+    font-family: 'Bree Serif', serif;
+}
+
+.main_home{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+
+img{
+    width: 75%;
+    padding-bottom: 7px;
+}
+
+.pokemon{
+    width: 23%;
+    text-align: center;
+    background-color: rgb(250, 122, 83);
+    margin: 1rem;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    border: solid 2px rgb(172, 47, 9);
+    text-decoration: none;
+}
+
+.nav_link:hover, .pokemon:hover, .button:hover{
+    box-shadow: 5px 5px rgb(172, 47, 9);
+    -webkit-transform: scale(2.1);
+    transform: scale(1.1);
+}
+
+.type_list a:hover{
+    box-shadow: 3px 3px rgb(255, 255, 255);
+}
+
+
+h2{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin: 1.4rem;
+    font-size: 1.4rem;
+    letter-spacing: 0.07rem;
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.section img{
+    width: 30%;
+    margin-right: 1rem;
+}
+
+.article{
+    background-color: rgb(250, 122, 83);
+    width: 70%;
+    margin-left: 1rem;
+    border-radius: 15px;
+    color: white;
+    padding: 1rem;
+    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h3{
+    margin: 1rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 0.07rem;
+}
+
+
+.stat_carac{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0.3rem;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+}
+
+.stat_carac-global{
+    display: flex;
+    flex-direction: column;
+    margin : 0 2rem 1.5rem 2rem;
+}
+
+.stat_carac span{
+    flex: 1 1 0;
+}
+
+.stat_carac-bar-child{
+    background-color: white;
+    height: 100%;
+    animation: progressAnimationStrike 3s;
+}
+
+@keyframes progressAnimationStrike {
+    from { width: 0 }
+    to {}
+}
+
+.stat_carac-bar{
+    background-color: rgb(172, 47, 9);
+    width : 50%;
+}
+
+.return{
+    text-align: center;
+    margin: 2rem;
+}
+
+.return a {
+    
+    font-size: 1.3rem;
+    color: white;
+}
+
+.tags{
+padding: 0.5rem;
+border-radius: 7px;
+font-weight: bold;
+margin-bottom: 1rem;
+margin-left: 0.7rem;
+}
+
+.type_list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.type_list a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    width: 23%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.type--Plante{
+    background-color: green;
+}
+
+.type--Poison{
+    background-color: purple;
+}
+
+.type--Feu{
+    background-color: rgb(206, 31, 19);
+}
+
+.type--Vol{
+    background-color: rgb(115, 193, 245);
+}
+
+.type--Eau{
+    background-color: rgb(0, 102, 255);
+}
+
+.type--Insecte{
+    background-color: rgb(158, 202, 55);
+}
+
+.type--Acier{
+    background-color: rgb(197, 194, 194);
+}
+
+.type--Combat{
+    background-color: rgb(161, 59, 40);
+}
+
+.type--Dragon{
+    background-color: rgb(96, 66, 230);
+}
+
+.type--Électrik{
+    background-color: rgb(252, 212, 79);
+}
+
+.type--Glace{
+    background-color: rgb(79, 240, 252);
+}
+
+.type--Normal{
+    background-color: rgb(212, 191, 181);
+}
+
+.type--Psy{
+    background-color: rgb(247, 91, 176);
+}
+
+.type--Roche{
+    background-color: rgb(124, 133, 103);
+}
+
+.type--Sol{
+    background-color: rgb(204, 191, 114);
+}
+
+.type--Spectre{
+    background-color: rgb(88, 77, 185);
+}
+
+@media screen and (max-width:677px){
+    .pokemon{
+        width: 35%;
+    }
+}
+
+@media screen and (max-width:466px){
+    .pokemon{
+        width: 30%;
+    }
+
+    header{
+        margin-top: 1rem;
+    }
+
+    header input{
+        display: flex;
+        margin: auto;
+    }
+
+    .button{
+        margin: auto;
+        margin-top: 1rem;
+    }
+
+    header a{
+        font-size: 3rem;
+    }
+
+    header nav{
+        width: 2rem;
+        margin-right: 7rem;
+    }
+}
+
+@media screen and (max-width:414px){
+    .pokemon{
+        width: 28%;
+    }
+}
+
+@media screen and (max-width:380px){
+    nav a {
+        display: flex;
+    }
+    
+    header{
+        padding: 1rem;
+    }
+    
+    .pokemon{
+        width: 30%;
+    }
+}
+
+@media screen and (max-width:350px){
+    .pokemon{
+        width: 100%;
+    }
+
+    h1{
+        margin: 1.2rem;
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width:279px){
+    .pokemon{
+        width: 100%;
+    }
+
+    h1{
+        margin: 1.2rem;
+        font-size: 1.5rem;
+    }
+
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:1200px){
+.section {
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+}
+
+@media screen and (max-width:1100px){
+    .article {
+        width: 100%;
+    }
+    .section img{
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:850px){
+    .section img{
+        width: 50%;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 1rem;
+        padding: 2rem;
+        gap: 2rem;
+    }
+
+    header h1{
+        margin-bottom: 0;
+        margin-top: 0;
+        font-size: 5rem;
+        padding-top: 0;
+    }
+
+    nav{
+        display: flex;
+        gap: 1rem;
+    }
+
+    nav a {
+        width: 15rem;
+    }
+    
+}
+
+@media screen and (max-width:750px){
+    nav a {
+        width: 10rem;
+    }
+}
+
+@media screen and (max-width:650px){
+    .stat_carac{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap : 0.7rem;
+        margin-top: 4rem;
+    }
+    .stat_carac-bar{
+        height: 20px;
+        width : 100%;
+    }
+
+    nav a {
+        width: 7rem;
+    }
+}

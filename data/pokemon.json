@@ -1,0 +1,2029 @@
+[
+    {
+        "numero": 1,
+        "nom": "Bulbizarre",
+        "pv": 45,
+        "attaque": 49,
+        "defense": 49,
+        "attaque_spe": 65,
+        "defense_spe": 65,
+        "vitesse": 45,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 2,
+        "nom": "Herbizarre",
+        "pv": 60,
+        "attaque": 62,
+        "defense": 63,
+        "attaque_spe": 80,
+        "defense_spe": 80,
+        "vitesse": 60,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 3,
+        "nom": "Florizarre",
+        "pv": 80,
+        "attaque": 82,
+        "defense": 83,
+        "attaque_spe": 100,
+        "defense_spe": 100,
+        "vitesse": 80,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 4,
+        "nom": "Salameche",
+        "pv": 39,
+        "attaque": 52,
+        "defense": 43,
+        "attaque_spe": 60,
+        "defense_spe": 50,
+        "vitesse": 65,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 5,
+        "nom": "Reptincel",
+        "pv": 58,
+        "attaque": 64,
+        "defense": 58,
+        "attaque_spe": 80,
+        "defense_spe": 65,
+        "vitesse": 80,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 6,
+        "nom": "Dracaufeu",
+        "pv": 78,
+        "attaque": 84,
+        "defense": 78,
+        "attaque_spe": 109,
+        "defense_spe": 85,
+        "vitesse": 100,
+        "type": [
+            "Feu",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 7,
+        "nom": "Carapuce",
+        "pv": 44,
+        "attaque": 48,
+        "defense": 65,
+        "attaque_spe": 50,
+        "defense_spe": 64,
+        "vitesse": 43,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 8,
+        "nom": "Carabaffe",
+        "pv": 59,
+        "attaque": 63,
+        "defense": 80,
+        "attaque_spe": 65,
+        "defense_spe": 80,
+        "vitesse": 58,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 9,
+        "nom": "Tortank",
+        "pv": 79,
+        "attaque": 83,
+        "defense": 100,
+        "attaque_spe": 85,
+        "defense_spe": 105,
+        "vitesse": 78,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 10,
+        "nom": "Chenipan",
+        "pv": 45,
+        "attaque": 30,
+        "defense": 35,
+        "attaque_spe": 20,
+        "defense_spe": 20,
+        "vitesse": 45,
+        "type": [
+            "Insecte"
+        ]
+    },
+    {
+        "numero": 11,
+        "nom": "Chrysacier",
+        "pv": 50,
+        "attaque": 20,
+        "defense": 55,
+        "attaque_spe": 25,
+        "defense_spe": 25,
+        "vitesse": 30,
+        "type": [
+            "Insecte"
+        ]
+    },
+    {
+        "numero": 12,
+        "nom": "Papilusion",
+        "pv": 60,
+        "attaque": 45,
+        "defense": 50,
+        "attaque_spe": 80,
+        "defense_spe": 80,
+        "vitesse": 70,
+        "type": [
+            "Insecte",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 13,
+        "nom": "Aspicot",
+        "pv": 40,
+        "attaque": 35,
+        "defense": 30,
+        "attaque_spe": 20,
+        "defense_spe": 20,
+        "vitesse": 50,
+        "type": [
+            "Insecte",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 14,
+        "nom": "Coconfort",
+        "pv": 45,
+        "attaque": 25,
+        "defense": 50,
+        "attaque_spe": 25,
+        "defense_spe": 25,
+        "vitesse": 35,
+        "type": [
+            "Insecte",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 15,
+        "nom": "Dardargnan",
+        "pv": 65,
+        "attaque": 80,
+        "defense": 40,
+        "attaque_spe": 45,
+        "defense_spe": 80,
+        "vitesse": 75,
+        "type": [
+            "Insecte",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 16,
+        "nom": "Roucool",
+        "pv": 40,
+        "attaque": 45,
+        "defense": 40,
+        "attaque_spe": 35,
+        "defense_spe": 35,
+        "vitesse": 56,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 17,
+        "nom": "Roucoups",
+        "pv": 63,
+        "attaque": 60,
+        "defense": 55,
+        "attaque_spe": 50,
+        "defense_spe": 50,
+        "vitesse": 71,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 18,
+        "nom": "Roucarnage",
+        "pv": 83,
+        "attaque": 80,
+        "defense": 75,
+        "attaque_spe": 70,
+        "defense_spe": 70,
+        "vitesse": 91,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 19,
+        "nom": "Rattata",
+        "pv": 30,
+        "attaque": 56,
+        "defense": 35,
+        "attaque_spe": 25,
+        "defense_spe": 35,
+        "vitesse": 72,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 20,
+        "nom": "Rattatac",
+        "pv": 55,
+        "attaque": 81,
+        "defense": 60,
+        "attaque_spe": 50,
+        "defense_spe": 70,
+        "vitesse": 97,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 21,
+        "nom": "Piafabec",
+        "pv": 40,
+        "attaque": 60,
+        "defense": 30,
+        "attaque_spe": 31,
+        "defense_spe": 31,
+        "vitesse": 70,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 22,
+        "nom": "Rapasdepic",
+        "pv": 65,
+        "attaque": 90,
+        "defense": 65,
+        "attaque_spe": 61,
+        "defense_spe": 61,
+        "vitesse": 100,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 23,
+        "nom": "Abo",
+        "pv": 35,
+        "attaque": 60,
+        "defense": 44,
+        "attaque_spe": 40,
+        "defense_spe": 54,
+        "vitesse": 55,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 24,
+        "nom": "Arbok",
+        "pv": 60,
+        "attaque": 85,
+        "defense": 69,
+        "attaque_spe": 65,
+        "defense_spe": 79,
+        "vitesse": 80,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 25,
+        "nom": "Pikachu",
+        "pv": 35,
+        "attaque": 55,
+        "defense": 30,
+        "attaque_spe": 50,
+        "defense_spe": 40,
+        "vitesse": 90,
+        "type": [
+            "Électrik"
+        ]
+    },
+    {
+        "numero": 26,
+        "nom": "Raichu",
+        "pv": 60,
+        "attaque": 90,
+        "defense": 55,
+        "attaque_spe": 90,
+        "defense_spe": 80,
+        "vitesse": 100,
+        "type": [
+            "Électrik"
+        ]
+    },
+    {
+        "numero": 27,
+        "nom": "Sabelette",
+        "pv": 50,
+        "attaque": 75,
+        "defense": 85,
+        "attaque_spe": 20,
+        "defense_spe": 30,
+        "vitesse": 40,
+        "type": [
+            "Sol"
+        ]
+    },
+    {
+        "numero": 28,
+        "nom": "Sablaireau",
+        "pv": 75,
+        "attaque": 100,
+        "defense": 110,
+        "attaque_spe": 45,
+        "defense_spe": 55,
+        "vitesse": 65,
+        "type": [
+            "Sol"
+        ]
+    },
+    {
+        "numero": 29,
+        "nom": "Nidoran F",
+        "pv": 55,
+        "attaque": 47,
+        "defense": 52,
+        "attaque_spe": 40,
+        "defense_spe": 40,
+        "vitesse": 41,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 30,
+        "nom": "Nidorina",
+        "pv": 70,
+        "attaque": 62,
+        "defense": 67,
+        "attaque_spe": 55,
+        "defense_spe": 55,
+        "vitesse": 56,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 31,
+        "nom": "Nidoqueen",
+        "pv": 90,
+        "attaque": 82,
+        "defense": 87,
+        "attaque_spe": 75,
+        "defense_spe": 85,
+        "vitesse": 76,
+        "type": [
+            "Poison",
+            "Sol"
+        ]
+    },
+    {
+        "numero": 32,
+        "nom": "Nidoran M",
+        "pv": 46,
+        "attaque": 57,
+        "defense": 40,
+        "attaque_spe": 40,
+        "defense_spe": 40,
+        "vitesse": 50,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 33,
+        "nom": "Nidorino",
+        "pv": 61,
+        "attaque": 72,
+        "defense": 57,
+        "attaque_spe": 55,
+        "defense_spe": 55,
+        "vitesse": 65,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 34,
+        "nom": "Nidoking",
+        "pv": 81,
+        "attaque": 92,
+        "defense": 77,
+        "attaque_spe": 85,
+        "defense_spe": 75,
+        "vitesse": 85,
+        "type": [
+            "Poison",
+            "Sol"
+        ]
+    },
+    {
+        "numero": 35,
+        "nom": "Melofee",
+        "pv": 70,
+        "attaque": 45,
+        "defense": 48,
+        "attaque_spe": 60,
+        "defense_spe": 65,
+        "vitesse": 35,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 36,
+        "nom": "Melodelfe",
+        "pv": 95,
+        "attaque": 70,
+        "defense": 73,
+        "attaque_spe": 85,
+        "defense_spe": 90,
+        "vitesse": 60,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 37,
+        "nom": "Goupix",
+        "pv": 38,
+        "attaque": 41,
+        "defense": 40,
+        "attaque_spe": 50,
+        "defense_spe": 65,
+        "vitesse": 65,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 38,
+        "nom": "Feunard",
+        "pv": 73,
+        "attaque": 76,
+        "defense": 75,
+        "attaque_spe": 81,
+        "defense_spe": 100,
+        "vitesse": 100,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 39,
+        "nom": "Rondoudou",
+        "pv": 115,
+        "attaque": 45,
+        "defense": 20,
+        "attaque_spe": 45,
+        "defense_spe": 25,
+        "vitesse": 20,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 40,
+        "nom": "Grodoudou",
+        "pv": 140,
+        "attaque": 70,
+        "defense": 45,
+        "attaque_spe": 75,
+        "defense_spe": 50,
+        "vitesse": 45,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 41,
+        "nom": "Nosferapti",
+        "pv": 40,
+        "attaque": 45,
+        "defense": 35,
+        "attaque_spe": 30,
+        "defense_spe": 40,
+        "vitesse": 55,
+        "type": [
+            "Poison",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 42,
+        "nom": "Nosferalto",
+        "pv": 75,
+        "attaque": 80,
+        "defense": 70,
+        "attaque_spe": 65,
+        "defense_spe": 75,
+        "vitesse": 90,
+        "type": [
+            "Poison",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 43,
+        "nom": "Mystherbe",
+        "pv": 45,
+        "attaque": 50,
+        "defense": 55,
+        "attaque_spe": 75,
+        "defense_spe": 65,
+        "vitesse": 30,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 44,
+        "nom": "Ortide",
+        "pv": 60,
+        "attaque": 65,
+        "defense": 70,
+        "attaque_spe": 85,
+        "defense_spe": 75,
+        "vitesse": 40,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 45,
+        "nom": "Rafflesia",
+        "pv": 75,
+        "attaque": 80,
+        "defense": 85,
+        "attaque_spe": 100,
+        "defense_spe": 90,
+        "vitesse": 50,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 46,
+        "nom": "Paras",
+        "pv": 35,
+        "attaque": 70,
+        "defense": 55,
+        "attaque_spe": 45,
+        "defense_spe": 55,
+        "vitesse": 25,
+        "type": [
+            "Insecte",
+            "Plante"
+        ]
+    },
+    {
+        "numero": 47,
+        "nom": "Parasect",
+        "pv": 60,
+        "attaque": 95,
+        "defense": 80,
+        "attaque_spe": 60,
+        "defense_spe": 80,
+        "vitesse": 30,
+        "type": [
+            "Insecte",
+            "Plante"
+        ]
+    },
+    {
+        "numero": 48,
+        "nom": "Mimitoss",
+        "pv": 60,
+        "attaque": 55,
+        "defense": 50,
+        "attaque_spe": 40,
+        "defense_spe": 55,
+        "vitesse": 45,
+        "type": [
+            "Insecte",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 49,
+        "nom": "Aeromite",
+        "pv": 70,
+        "attaque": 65,
+        "defense": 60,
+        "attaque_spe": 90,
+        "defense_spe": 75,
+        "vitesse": 90,
+        "type": [
+            "Insecte",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 50,
+        "nom": "Taupiqueur",
+        "pv": 10,
+        "attaque": 55,
+        "defense": 25,
+        "attaque_spe": 35,
+        "defense_spe": 45,
+        "vitesse": 95,
+        "type": [
+            "Sol"
+        ]
+    },
+    {
+        "numero": 51,
+        "nom": "Triopikeur",
+        "pv": 35,
+        "attaque": 80,
+        "defense": 50,
+        "attaque_spe": 50,
+        "defense_spe": 70,
+        "vitesse": 120,
+        "type": [
+            "Sol"
+        ]
+    },
+    {
+        "numero": 52,
+        "nom": "Miaouss",
+        "pv": 40,
+        "attaque": 45,
+        "defense": 35,
+        "attaque_spe": 40,
+        "defense_spe": 40,
+        "vitesse": 90,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 53,
+        "nom": "Persian",
+        "pv": 65,
+        "attaque": 70,
+        "defense": 60,
+        "attaque_spe": 65,
+        "defense_spe": 65,
+        "vitesse": 115,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 54,
+        "nom": "Psykokwak",
+        "pv": 50,
+        "attaque": 52,
+        "defense": 48,
+        "attaque_spe": 65,
+        "defense_spe": 50,
+        "vitesse": 55,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 55,
+        "nom": "Akwakwak",
+        "pv": 80,
+        "attaque": 82,
+        "defense": 78,
+        "attaque_spe": 95,
+        "defense_spe": 80,
+        "vitesse": 85,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 56,
+        "nom": "Ferosinge",
+        "pv": 40,
+        "attaque": 80,
+        "defense": 35,
+        "attaque_spe": 35,
+        "defense_spe": 45,
+        "vitesse": 70,
+        "type": [
+            "Combat"
+        ]
+    },
+    {
+        "numero": 57,
+        "nom": "Colossinge",
+        "pv": 65,
+        "attaque": 105,
+        "defense": 60,
+        "attaque_spe": 60,
+        "defense_spe": 70,
+        "vitesse": 95,
+        "type": [
+            "Combat"
+        ]
+    },
+    {
+        "numero": 58,
+        "nom": "Caninos",
+        "pv": 55,
+        "attaque": 70,
+        "defense": 45,
+        "attaque_spe": 70,
+        "defense_spe": 50,
+        "vitesse": 60,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 59,
+        "nom": "Arcanin",
+        "pv": 90,
+        "attaque": 110,
+        "defense": 80,
+        "attaque_spe": 100,
+        "defense_spe": 80,
+        "vitesse": 95,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 60,
+        "nom": "Ptitard",
+        "pv": 40,
+        "attaque": 50,
+        "defense": 40,
+        "attaque_spe": 40,
+        "defense_spe": 40,
+        "vitesse": 90,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 61,
+        "nom": "Tetarte",
+        "pv": 65,
+        "attaque": 65,
+        "defense": 65,
+        "attaque_spe": 50,
+        "defense_spe": 50,
+        "vitesse": 90,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 62,
+        "nom": "Tartard",
+        "pv": 90,
+        "attaque": 85,
+        "defense": 95,
+        "attaque_spe": 70,
+        "defense_spe": 90,
+        "vitesse": 70,
+        "type": [
+            "Eau",
+            "Combat"
+        ]
+    },
+    {
+        "numero": 63,
+        "nom": "Abra",
+        "pv": 25,
+        "attaque": 20,
+        "defense": 15,
+        "attaque_spe": 105,
+        "defense_spe": 55,
+        "vitesse": 90,
+        "type": [
+            "Psy"
+        ]
+    },
+    {
+        "numero": 64,
+        "nom": "Kadabra",
+        "pv": 40,
+        "attaque": 35,
+        "defense": 30,
+        "attaque_spe": 120,
+        "defense_spe": 70,
+        "vitesse": 105,
+        "type": [
+            "Psy"
+        ]
+    },
+    {
+        "numero": 65,
+        "nom": "Alakazam",
+        "pv": 55,
+        "attaque": 50,
+        "defense": 45,
+        "attaque_spe": 135,
+        "defense_spe": 85,
+        "vitesse": 120,
+        "type": [
+            "Psy"
+        ]
+    },
+    {
+        "numero": 66,
+        "nom": "Machoc",
+        "pv": 70,
+        "attaque": 80,
+        "defense": 50,
+        "attaque_spe": 35,
+        "defense_spe": 35,
+        "vitesse": 35,
+        "type": [
+            "Combat"
+        ]
+    },
+    {
+        "numero": 67,
+        "nom": "Machopeur",
+        "pv": 80,
+        "attaque": 100,
+        "defense": 70,
+        "attaque_spe": 50,
+        "defense_spe": 60,
+        "vitesse": 45,
+        "type": [
+            "Combat"
+        ]
+    },
+    {
+        "numero": 68,
+        "nom": "Mackogneur",
+        "pv": 90,
+        "attaque": 130,
+        "defense": 80,
+        "attaque_spe": 65,
+        "defense_spe": 85,
+        "vitesse": 55,
+        "type": [
+            "Combat"
+        ]
+    },
+    {
+        "numero": 69,
+        "nom": "Chetiflor",
+        "pv": 50,
+        "attaque": 75,
+        "defense": 35,
+        "attaque_spe": 70,
+        "defense_spe": 30,
+        "vitesse": 40,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 70,
+        "nom": "Boustiflor",
+        "pv": 65,
+        "attaque": 90,
+        "defense": 50,
+        "attaque_spe": 85,
+        "defense_spe": 45,
+        "vitesse": 55,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 71,
+        "nom": "Empiflor",
+        "pv": 80,
+        "attaque": 105,
+        "defense": 65,
+        "attaque_spe": 100,
+        "defense_spe": 60,
+        "vitesse": 70,
+        "type": [
+            "Plante",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 72,
+        "nom": "Tentacool",
+        "pv": 40,
+        "attaque": 40,
+        "defense": 35,
+        "attaque_spe": 50,
+        "defense_spe": 100,
+        "vitesse": 70,
+        "type": [
+            "Eau",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 73,
+        "nom": "Tentacruel",
+        "pv": 80,
+        "attaque": 70,
+        "defense": 65,
+        "attaque_spe": 80,
+        "defense_spe": 120,
+        "vitesse": 100,
+        "type": [
+            "Eau",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 74,
+        "nom": "Racaillou",
+        "pv": 40,
+        "attaque": 80,
+        "defense": 100,
+        "attaque_spe": 30,
+        "defense_spe": 30,
+        "vitesse": 20,
+        "type": [
+            "Roche",
+            "Sol"
+        ]
+    },
+    {
+        "numero": 75,
+        "nom": "Gravalanch",
+        "pv": 55,
+        "attaque": 95,
+        "defense": 115,
+        "attaque_spe": 45,
+        "defense_spe": 45,
+        "vitesse": 35,
+        "type": [
+            "Roche",
+            "Sol"
+        ]
+    },
+    {
+        "numero": 76,
+        "nom": "Grolem",
+        "pv": 80,
+        "attaque": 110,
+        "defense": 130,
+        "attaque_spe": 55,
+        "defense_spe": 65,
+        "vitesse": 45,
+        "type": [
+            "Roche",
+            "Sol"
+        ]
+    },
+    {
+        "numero": 77,
+        "nom": "Ponyta",
+        "pv": 50,
+        "attaque": 85,
+        "defense": 55,
+        "attaque_spe": 65,
+        "defense_spe": 65,
+        "vitesse": 90,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 78,
+        "nom": "Galopa",
+        "pv": 65,
+        "attaque": 100,
+        "defense": 70,
+        "attaque_spe": 80,
+        "defense_spe": 80,
+        "vitesse": 105,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 79,
+        "nom": "Ramoloss",
+        "pv": 90,
+        "attaque": 65,
+        "defense": 65,
+        "attaque_spe": 40,
+        "defense_spe": 40,
+        "vitesse": 15,
+        "type": [
+            "Eau",
+            "Psy"
+        ]
+    },
+    {
+        "numero": 80,
+        "nom": "Flagadoss",
+        "pv": 95,
+        "attaque": 75,
+        "defense": 110,
+        "attaque_spe": 100,
+        "defense_spe": 80,
+        "vitesse": 30,
+        "type": [
+            "Eau",
+            "Psy"
+        ]
+    },
+    {
+        "numero": 81,
+        "nom": "Magneti",
+        "pv": 25,
+        "attaque": 35,
+        "defense": 70,
+        "attaque_spe": 95,
+        "defense_spe": 55,
+        "vitesse": 45,
+        "type": [
+            "Électrik",
+            "Acier"
+        ]
+    },
+    {
+        "numero": 82,
+        "nom": "Magneton",
+        "pv": 50,
+        "attaque": 60,
+        "defense": 95,
+        "attaque_spe": 120,
+        "defense_spe": 70,
+        "vitesse": 70,
+        "type": [
+            "Électrik",
+            "Acier"
+        ]
+    },
+    {
+        "numero": 83,
+        "nom": "Canarticho",
+        "pv": 52,
+        "attaque": 65,
+        "defense": 55,
+        "attaque_spe": 58,
+        "defense_spe": 62,
+        "vitesse": 60,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 84,
+        "nom": "Doduo",
+        "pv": 35,
+        "attaque": 85,
+        "defense": 45,
+        "attaque_spe": 35,
+        "defense_spe": 35,
+        "vitesse": 75,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 85,
+        "nom": "Dodrio",
+        "pv": 60,
+        "attaque": 110,
+        "defense": 70,
+        "attaque_spe": 60,
+        "defense_spe": 60,
+        "vitesse": 100,
+        "type": [
+            "Normal",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 86,
+        "nom": "Otaria",
+        "pv": 65,
+        "attaque": 45,
+        "defense": 55,
+        "attaque_spe": 45,
+        "defense_spe": 70,
+        "vitesse": 45,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 87,
+        "nom": "Lamantine",
+        "pv": 90,
+        "attaque": 70,
+        "defense": 80,
+        "attaque_spe": 70,
+        "defense_spe": 95,
+        "vitesse": 70,
+        "type": [
+            "Eau",
+            "Glace"
+        ]
+    },
+    {
+        "numero": 88,
+        "nom": "Tadmorv",
+        "pv": 80,
+        "attaque": 80,
+        "defense": 50,
+        "attaque_spe": 40,
+        "defense_spe": 50,
+        "vitesse": 25,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 89,
+        "nom": "Grotadmorv",
+        "pv": 105,
+        "attaque": 105,
+        "defense": 75,
+        "attaque_spe": 65,
+        "defense_spe": 100,
+        "vitesse": 50,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 90,
+        "nom": "Kokiyas",
+        "pv": 30,
+        "attaque": 65,
+        "defense": 100,
+        "attaque_spe": 45,
+        "defense_spe": 25,
+        "vitesse": 40,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 91,
+        "nom": "Crustabri",
+        "pv": 50,
+        "attaque": 95,
+        "defense": 180,
+        "attaque_spe": 85,
+        "defense_spe": 45,
+        "vitesse": 70,
+        "type": [
+            "Eau",
+            "Glace"
+        ]
+    },
+    {
+        "numero": 92,
+        "nom": "Fantominus",
+        "pv": 30,
+        "attaque": 35,
+        "defense": 30,
+        "attaque_spe": 100,
+        "defense_spe": 35,
+        "vitesse": 80,
+        "type": [
+            "Spectre",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 93,
+        "nom": "Spectrum",
+        "pv": 45,
+        "attaque": 50,
+        "defense": 45,
+        "attaque_spe": 115,
+        "defense_spe": 55,
+        "vitesse": 95,
+        "type": [
+            "Spectre",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 94,
+        "nom": "Ectoplasma",
+        "pv": 60,
+        "attaque": 65,
+        "defense": 60,
+        "attaque_spe": 130,
+        "defense_spe": 75,
+        "vitesse": 110,
+        "type": [
+            "Spectre",
+            "Poison"
+        ]
+    },
+    {
+        "numero": 95,
+        "nom": "Onix",
+        "pv": 35,
+        "attaque": 45,
+        "defense": 160,
+        "attaque_spe": 30,
+        "defense_spe": 45,
+        "vitesse": 70,
+        "type": [
+            "Roche",
+            "Sol"
+        ]
+    },
+    {
+        "numero": 96,
+        "nom": "Soporifik",
+        "pv": 60,
+        "attaque": 48,
+        "defense": 45,
+        "attaque_spe": 43,
+        "defense_spe": 90,
+        "vitesse": 42,
+        "type": [
+            "Psy"
+        ]
+    },
+    {
+        "numero": 97,
+        "nom": "Hypnomade",
+        "pv": 85,
+        "attaque": 73,
+        "defense": 70,
+        "attaque_spe": 73,
+        "defense_spe": 115,
+        "vitesse": 67,
+        "type": [
+            "Psy"
+        ]
+    },
+    {
+        "numero": 98,
+        "nom": "Krabby",
+        "pv": 30,
+        "attaque": 105,
+        "defense": 90,
+        "attaque_spe": 25,
+        "defense_spe": 25,
+        "vitesse": 50,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 99,
+        "nom": "Krabboss",
+        "pv": 55,
+        "attaque": 130,
+        "defense": 115,
+        "attaque_spe": 50,
+        "defense_spe": 50,
+        "vitesse": 75,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 100,
+        "nom": "Voltorbe",
+        "pv": 40,
+        "attaque": 30,
+        "defense": 50,
+        "attaque_spe": 55,
+        "defense_spe": 55,
+        "vitesse": 100,
+        "type": [
+            "Électrik"
+        ]
+    },
+    {
+        "numero": 101,
+        "nom": "Electrode",
+        "pv": 60,
+        "attaque": 50,
+        "defense": 70,
+        "attaque_spe": 80,
+        "defense_spe": 80,
+        "vitesse": 140,
+        "type": [
+            "Électrik"
+        ]
+    },
+    {
+        "numero": 102,
+        "nom": "Noeunoeuf",
+        "pv": 60,
+        "attaque": 40,
+        "defense": 80,
+        "attaque_spe": 60,
+        "defense_spe": 45,
+        "vitesse": 40,
+        "type": [
+            "Plante",
+            "Psy"
+        ]
+    },
+    {
+        "numero": 103,
+        "nom": "Noadkoko",
+        "pv": 95,
+        "attaque": 95,
+        "defense": 85,
+        "attaque_spe": 125,
+        "defense_spe": 65,
+        "vitesse": 55,
+        "type": [
+            "Plante",
+            "Psy"
+        ]
+    },
+    {
+        "numero": 104,
+        "nom": "Osselait",
+        "pv": 50,
+        "attaque": 50,
+        "defense": 95,
+        "attaque_spe": 40,
+        "defense_spe": 50,
+        "vitesse": 35,
+        "type": [
+            "Sol"
+        ]
+    },
+    {
+        "numero": 105,
+        "nom": "Ossatueur",
+        "pv": 60,
+        "attaque": 80,
+        "defense": 110,
+        "attaque_spe": 50,
+        "defense_spe": 80,
+        "vitesse": 45,
+        "type": [
+            "Sol"
+        ]
+    },
+    {
+        "numero": 106,
+        "nom": "Kicklee",
+        "pv": 50,
+        "attaque": 120,
+        "defense": 53,
+        "attaque_spe": 35,
+        "defense_spe": 110,
+        "vitesse": 87,
+        "type": [
+            "Combat"
+        ]
+    },
+    {
+        "numero": 107,
+        "nom": "Tygnon",
+        "pv": 50,
+        "attaque": 105,
+        "defense": 79,
+        "attaque_spe": 35,
+        "defense_spe": 110,
+        "vitesse": 76,
+        "type": [
+            "Combat"
+        ]
+    },
+    {
+        "numero": 108,
+        "nom": "Excelangue",
+        "pv": 90,
+        "attaque": 55,
+        "defense": 75,
+        "attaque_spe": 60,
+        "defense_spe": 75,
+        "vitesse": 30,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 109,
+        "nom": "Smogo",
+        "pv": 40,
+        "attaque": 65,
+        "defense": 95,
+        "attaque_spe": 60,
+        "defense_spe": 45,
+        "vitesse": 35,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 110,
+        "nom": "Smogogo",
+        "pv": 65,
+        "attaque": 90,
+        "defense": 120,
+        "attaque_spe": 85,
+        "defense_spe": 70,
+        "vitesse": 60,
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "numero": 111,
+        "nom": "Rhinocorne",
+        "pv": 80,
+        "attaque": 85,
+        "defense": 95,
+        "attaque_spe": 30,
+        "defense_spe": 30,
+        "vitesse": 25,
+        "type": [
+            "Sol",
+            "Roche"
+        ]
+    },
+    {
+        "numero": 112,
+        "nom": "Rhinoferos",
+        "pv": 105,
+        "attaque": 130,
+        "defense": 120,
+        "attaque_spe": 45,
+        "defense_spe": 45,
+        "vitesse": 40,
+        "type": [
+            "Sol",
+            "Roche"
+        ]
+    },
+    {
+        "numero": 113,
+        "nom": "Leveinard",
+        "pv": 250,
+        "attaque": 5,
+        "defense": 5,
+        "attaque_spe": 35,
+        "defense_spe": 105,
+        "vitesse": 50,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 114,
+        "nom": "Saquedeneu",
+        "pv": 65,
+        "attaque": 55,
+        "defense": 115,
+        "attaque_spe": 100,
+        "defense_spe": 40,
+        "vitesse": 60,
+        "type": [
+            "Plante"
+        ]
+    },
+    {
+        "numero": 115,
+        "nom": "Kangourex",
+        "pv": 105,
+        "attaque": 95,
+        "defense": 80,
+        "attaque_spe": 40,
+        "defense_spe": 80,
+        "vitesse": 90,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 116,
+        "nom": "Hypotrempe",
+        "pv": 30,
+        "attaque": 40,
+        "defense": 70,
+        "attaque_spe": 70,
+        "defense_spe": 25,
+        "vitesse": 60,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 117,
+        "nom": "Hypocean",
+        "pv": 55,
+        "attaque": 65,
+        "defense": 95,
+        "attaque_spe": 95,
+        "defense_spe": 45,
+        "vitesse": 85,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 118,
+        "nom": "Poissirene",
+        "pv": 45,
+        "attaque": 67,
+        "defense": 60,
+        "attaque_spe": 35,
+        "defense_spe": 50,
+        "vitesse": 63,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 119,
+        "nom": "Poissoroy",
+        "pv": 80,
+        "attaque": 92,
+        "defense": 65,
+        "attaque_spe": 65,
+        "defense_spe": 80,
+        "vitesse": 68,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 120,
+        "nom": "Stari",
+        "pv": 30,
+        "attaque": 45,
+        "defense": 55,
+        "attaque_spe": 70,
+        "defense_spe": 55,
+        "vitesse": 85,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 121,
+        "nom": "Staross",
+        "pv": 60,
+        "attaque": 75,
+        "defense": 85,
+        "attaque_spe": 100,
+        "defense_spe": 85,
+        "vitesse": 115,
+        "type": [
+            "Eau",
+            "Psy"
+        ]
+    },
+    {
+        "numero": 122,
+        "nom": "M.Mime",
+        "pv": 40,
+        "attaque": 45,
+        "defense": 65,
+        "attaque_spe": 100,
+        "defense_spe": 120,
+        "vitesse": 90,
+        "type": [
+            "Psy"
+        ]
+    },
+    {
+        "numero": 123,
+        "nom": "Insecateur",
+        "pv": 70,
+        "attaque": 110,
+        "defense": 80,
+        "attaque_spe": 55,
+        "defense_spe": 80,
+        "vitesse": 105,
+        "type": [
+            "Insecte",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 124,
+        "nom": "Lippoutou",
+        "pv": 65,
+        "attaque": 50,
+        "defense": 35,
+        "attaque_spe": 115,
+        "defense_spe": 95,
+        "vitesse": 95,
+        "type": [
+            "Glace",
+            "Psy"
+        ]
+    },
+    {
+        "numero": 125,
+        "nom": "Elektek",
+        "pv": 65,
+        "attaque": 83,
+        "defense": 57,
+        "attaque_spe": 95,
+        "defense_spe": 85,
+        "vitesse": 105,
+        "type": [
+            "Électrik"
+        ]
+    },
+    {
+        "numero": 126,
+        "nom": "Magmar",
+        "pv": 65,
+        "attaque": 95,
+        "defense": 57,
+        "attaque_spe": 100,
+        "defense_spe": 85,
+        "vitesse": 93,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 127,
+        "nom": "Scarabrute",
+        "pv": 65,
+        "attaque": 125,
+        "defense": 100,
+        "attaque_spe": 55,
+        "defense_spe": 70,
+        "vitesse": 85,
+        "type": [
+            "Insecte"
+        ]
+    },
+    {
+        "numero": 128,
+        "nom": "Tauros",
+        "pv": 75,
+        "attaque": 100,
+        "defense": 95,
+        "attaque_spe": 40,
+        "defense_spe": 70,
+        "vitesse": 110,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 129,
+        "nom": "Magicarpe",
+        "pv": 20,
+        "attaque": 10,
+        "defense": 55,
+        "attaque_spe": 15,
+        "defense_spe": 20,
+        "vitesse": 80,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 130,
+        "nom": "Leviator",
+        "pv": 95,
+        "attaque": 125,
+        "defense": 79,
+        "attaque_spe": 60,
+        "defense_spe": 100,
+        "vitesse": 81,
+        "type": [
+            "Eau",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 131,
+        "nom": "Lokhlass",
+        "pv": 130,
+        "attaque": 85,
+        "defense": 80,
+        "attaque_spe": 85,
+        "defense_spe": 95,
+        "vitesse": 60,
+        "type": [
+            "Eau",
+            "Glace"
+        ]
+    },
+    {
+        "numero": 132,
+        "nom": "Metamorph",
+        "pv": 48,
+        "attaque": 48,
+        "defense": 48,
+        "attaque_spe": 48,
+        "defense_spe": 48,
+        "vitesse": 48,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 133,
+        "nom": "Evoli",
+        "pv": 55,
+        "attaque": 55,
+        "defense": 50,
+        "attaque_spe": 45,
+        "defense_spe": 65,
+        "vitesse": 55,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 134,
+        "nom": "Aquali",
+        "pv": 130,
+        "attaque": 65,
+        "defense": 60,
+        "attaque_spe": 110,
+        "defense_spe": 95,
+        "vitesse": 65,
+        "type": [
+            "Eau"
+        ]
+    },
+    {
+        "numero": 135,
+        "nom": "Voltali",
+        "pv": 65,
+        "attaque": 65,
+        "defense": 60,
+        "attaque_spe": 110,
+        "defense_spe": 95,
+        "vitesse": 130,
+        "type": [
+            "Électrik"
+        ]
+    },
+    {
+        "numero": 136,
+        "nom": "Pyroli",
+        "pv": 65,
+        "attaque": 130,
+        "defense": 60,
+        "attaque_spe": 95,
+        "defense_spe": 110,
+        "vitesse": 65,
+        "type": [
+            "Feu"
+        ]
+    },
+    {
+        "numero": 137,
+        "nom": "Porygon",
+        "pv": 65,
+        "attaque": 60,
+        "defense": 70,
+        "attaque_spe": 85,
+        "defense_spe": 75,
+        "vitesse": 40,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 138,
+        "nom": "Amonita",
+        "pv": 35,
+        "attaque": 40,
+        "defense": 100,
+        "attaque_spe": 90,
+        "defense_spe": 55,
+        "vitesse": 35,
+        "type": [
+            "Roche",
+            "Eau"
+        ]
+    },
+    {
+        "numero": 139,
+        "nom": "Amonistar",
+        "pv": 70,
+        "attaque": 60,
+        "defense": 125,
+        "attaque_spe": 115,
+        "defense_spe": 70,
+        "vitesse": 55,
+        "type": [
+            "Roche",
+            "Eau"
+        ]
+    },
+    {
+        "numero": 140,
+        "nom": "Kabuto",
+        "pv": 30,
+        "attaque": 80,
+        "defense": 90,
+        "attaque_spe": 55,
+        "defense_spe": 45,
+        "vitesse": 55,
+        "type": [
+            "Roche",
+            "Eau"
+        ]
+    },
+    {
+        "numero": 141,
+        "nom": "Kabutops",
+        "pv": 60,
+        "attaque": 115,
+        "defense": 105,
+        "attaque_spe": 65,
+        "defense_spe": 70,
+        "vitesse": 80,
+        "type": [
+            "Roche",
+            "Eau"
+        ]
+    },
+    {
+        "numero": 142,
+        "nom": "Ptera",
+        "pv": 80,
+        "attaque": 105,
+        "defense": 65,
+        "attaque_spe": 60,
+        "defense_spe": 75,
+        "vitesse": 130,
+        "type": [
+            "Roche",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 143,
+        "nom": "Ronflex",
+        "pv": 160,
+        "attaque": 110,
+        "defense": 65,
+        "attaque_spe": 65,
+        "defense_spe": 110,
+        "vitesse": 30,
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "numero": 144,
+        "nom": "Artikodin",
+        "pv": 90,
+        "attaque": 85,
+        "defense": 100,
+        "attaque_spe": 95,
+        "defense_spe": 125,
+        "vitesse": 85,
+        "type": [
+            "Glace",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 145,
+        "nom": "Electhor",
+        "pv": 90,
+        "attaque": 90,
+        "defense": 85,
+        "attaque_spe": 125,
+        "defense_spe": 90,
+        "vitesse": 100,
+        "type": [
+            "Électrik",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 146,
+        "nom": "Sulfura",
+        "pv": 90,
+        "attaque": 100,
+        "defense": 90,
+        "attaque_spe": 125,
+        "defense_spe": 85,
+        "vitesse": 90,
+        "type": [
+            "Feu",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 147,
+        "nom": "Minidraco",
+        "pv": 41,
+        "attaque": 64,
+        "defense": 45,
+        "attaque_spe": 50,
+        "defense_spe": 50,
+        "vitesse": 50,
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "numero": 148,
+        "nom": "Draco",
+        "pv": 61,
+        "attaque": 84,
+        "defense": 65,
+        "attaque_spe": 70,
+        "defense_spe": 70,
+        "vitesse": 70,
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "numero": 149,
+        "nom": "Dracolosse",
+        "pv": 91,
+        "attaque": 134,
+        "defense": 95,
+        "attaque_spe": 100,
+        "defense_spe": 100,
+        "vitesse": 80,
+        "type": [
+            "Dragon",
+            "Vol"
+        ]
+    },
+    {
+        "numero": 150,
+        "nom": "Mewtwo",
+        "pv": 106,
+        "attaque": 110,
+        "defense": 90,
+        "attaque_spe": 154,
+        "defense_spe": 90,
+        "vitesse": 130,
+        "type": [
+            "Psy"
+        ]
+    },
+    {
+        "numero": 151,
+        "nom": "Mew",
+        "pv": 100,
+        "attaque": 100,
+        "defense": 100,
+        "attaque_spe": 100,
+        "defense_spe": 100,
+        "vitesse": 100,
+        "type": [
+            "Psy"
+        ]
+    }
+]

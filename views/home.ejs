@@ -1,0 +1,16 @@
+<%- include("partials/header") %>
+
+    <main class="main_home">
+        <% pokedex.forEach(pokemon => {%> 
+            
+            <a id="<%= pokemon.numero %>" class="pokemon" href="details/<%= pokemon.numero %>">
+                
+                    <img src="/img/<%= pokemon.numero %>.png" alt="<%= pokemon.nom %>">
+                    <p>#<%= pokemon.numero %> <%= pokemon.nom %> </p>
+                
+            </a>
+            <% }); %> 
+    </main>
+    </div>
+</body>
+</html>

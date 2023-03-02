@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LauMa Pokédex</title>
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+    <header>
+        <h1><a href="/">Pokédex</a></h1>
+        <div class="input">
+            <form action="/listDetails" method="get">
+            <input class="search_bar" type="text" name="nom" id="nom" placeholder="Entrez le nom du Pokémon">
+            <input class="button" type="submit" value="Chercher">
+            </form>
+        </div>
+        <nav>
+            <a class="nav_link" href="/">Liste</a>
+            
+            <a class="nav_link" href="/types">Types</a>
+        </nav>
+        
+    </header>
