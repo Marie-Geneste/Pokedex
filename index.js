@@ -5,7 +5,7 @@ const pokedex = require("./data/pokedex.json");
 const router = require("./router");
 
 app.set("view engine", "ejs");
-app.set("views", "./views");
+app.set("views", "./public/views");
 
 app.use(express.static("./public"));
 

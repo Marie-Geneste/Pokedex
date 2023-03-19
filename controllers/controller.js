@@ -1,3 +1,5 @@
+const pokedex = require("../data/pokedex.json");
+
 const controller = {
     renderHomePage : (req,res) =>{
         res.render("home");
@@ -21,7 +23,5 @@ const controller = {
         res.render("listDetails", {pokemonType: requestedPokemon});
     }
 };
-
-const pokedex = require("../data/pokedex.json");
 
 module.exports = controller;
