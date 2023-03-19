@@ -2,7 +2,7 @@ const pokedex = require("../data/pokedex.json");
 
 const controller = {
     renderHomePage : (req,res) =>{
-        res.render("home");
+        res.render("index");
     },
     renderDetailsPage : (req,res) =>{
         const pokemonId = parseInt(req.params.pokemonId,10);
