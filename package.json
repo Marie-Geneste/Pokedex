@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "build": "ejs-cli ./views --out ./public --watch"
+    "build": "./node_modules/.bin/ejs-cli ./views --out ./public --watch"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "ejs-cli": "^2.2.3"
   }
 }
