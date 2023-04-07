@@ -362,6 +362,10 @@ margin-left: 0.7rem;
     .pokemon{
         width: 30%;
     }
+
+    .button{
+        font-size: 0.7rem;
+    }
 }
 
 @media screen and (max-width:414px){
