@@ -19,7 +19,7 @@ const controller = {
     },
     searchPokemonByName: (req,res)=>{
         const name = req.query.nom;
-        const requestedPokemon = pokedex.filter(pokemon => pokemon.nom.toLocaleLowerCase().includes(name));
+        const requestedPokemon = pokedex.filter(pokemon => pokemon.nom.toLowerCase().includes(name.toLowerCase()));
         res.render("listDetails", {pokemonType: requestedPokemon});
     }
 };

@@ -280,89 +280,8 @@ margin-left: 0.7rem;
     background-color: rgb(88, 77, 185);
 }
 
-@media screen and (max-width:677px){
-    .pokemon{
-        width: 35%;
-    }
-}
 
-@media screen and (max-width:466px){
-    .pokemon{
-        width: 30%;
-    }
-
-    header{
-        margin-top: 1rem;
-    }
-
-    header input{
-        display: flex;
-        margin: auto;
-    }
-
-    .button{
-        margin: auto;
-        margin-top: 1rem;
-    }
-
-    header a{
-        font-size: 3rem;
-    }
-
-    header nav{
-        width: 2rem;
-        margin-right: 7rem;
-    }
-}
-
-@media screen and (max-width:414px){
-    .pokemon{
-        width: 28%;
-    }
-}
-
-@media screen and (max-width:380px){
-    nav a {
-        display: flex;
-    }
-    
-    header{
-        padding: 1rem;
-    }
-    
-    .pokemon{
-        width: 30%;
-    }
-}
-
-@media screen and (max-width:350px){
-    .pokemon{
-        width: 100%;
-    }
-
-    h1{
-        margin: 1.2rem;
-        font-size: 1.5rem;
-    }
-}
-
-@media screen and (max-width:279px){
-    .pokemon{
-        width: 100%;
-    }
-
-    h1{
-        margin: 1.2rem;
-        font-size: 1.5rem;
-    }
-
-    header{
-        display: flex;
-        flex-direction: column;
-    }
-}
-
-@media screen and (max-width:1200px){
+@media screen and (max-width:1400px){
 .section {
     flex-direction: column;
     align-items: center;
@@ -383,52 +302,79 @@ margin-left: 0.7rem;
     .section img{
         width: 50%;
     }
+
     header{
-        display: flex;
-        flex-direction: column;
         margin-bottom: 1rem;
-        padding: 2rem;
-        gap: 2rem;
+        padding: 1rem;
+        gap: 1.5rem;
     }
 
     header h1{
         margin-bottom: 0;
         margin-top: 0;
-        font-size: 5rem;
+        font-size: 2rem;
         padding-top: 0;
     }
 
     nav{
         display: flex;
-        gap: 1rem;
+        flex-direction: column;
     }
-
-    nav a {
-        width: 15rem;
-    }
-    
 }
 
 @media screen and (max-width:750px){
-    nav a {
-        width: 10rem;
+    header{
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width:677px){
+    .pokemon{
+        width: 35%;
     }
 }
 
 @media screen and (max-width:650px){
-    .stat_carac{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap : 0.7rem;
-        margin-top: 4rem;
-    }
-    .stat_carac-bar{
-        height: 20px;
-        width : 100%;
+    header h1{
+        font-size: 1.5rem;
     }
 
-    nav a {
-        width: 7rem;
+    header{
+        gap: 0;
+    }
+
+    .stat_carac-global{
+        margin: 0 1rem 1.5rem 1rem;
     }
 }
+
+@media screen and (max-width:580px){
+    header h1{
+        display: none;
+    }
+
+    .stat_carac{
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width:466px){
+    .pokemon{
+        width: 30%;
+    }
+}
+
+@media screen and (max-width:414px){
+    .pokemon{
+        width: 100%;
+    }
+
+    header{
+        gap: 0.5rem;
+    }
+
+    .stat_carac-global{
+        margin: 0 0.3rem 1.5rem 0.3rem;
+    }
+}
+
