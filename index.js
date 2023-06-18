@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 
 app.use(router);
 
-const PORT = process.env.PORT ?? 3000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () =>{
     console.log(`Server listing at : http://localhost:${PORT}`);
 });
